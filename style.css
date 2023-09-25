@@ -238,12 +238,7 @@ footer {
     padding: 10px;
   }
 
-  .menu .grid{
-    grid-template-columns: 
-    "I1 I2"
-    "I3 I7"
-    "I4 I7";
-  }
+  
 
   .footer_container{
     padding: 20px;
@@ -257,7 +252,9 @@ footer {
   .news_letter input{
     padding: 5px 20px;
   }
-  
+.explore_btn{
+    color: black;
+}
 }
 
 @media(max-width: 480px){
