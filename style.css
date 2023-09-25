@@ -16,7 +16,7 @@ button {
   transition: 0.2s ease-in-out;
 }
 button:hover {
-  opacity: 0.8;
+  opacity: 0.3;
   transition: 0.2s ease-in-out;
 }
 /* Navigation */
@@ -65,6 +65,7 @@ nav {
 
 .explore_btn{
     padding: 15px 30px;
+    color: black;
 }
 
 .hero_content h1 {
@@ -263,4 +264,7 @@ footer {
     .hero_content h1{
         font-size: 24px;
     }
+.explore_btn{
+    color: black;
+}
 }
